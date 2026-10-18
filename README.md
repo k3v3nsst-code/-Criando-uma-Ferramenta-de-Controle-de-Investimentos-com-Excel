@@ -15,8 +15,7 @@ Além disso, ela projeta o patrimônio em cenários de 2 a 30 anos, compara o ap
 ## Arquivos
 
 | Arquivo | Para que serve |
-|---|---|
-| `simulador_fiis.xlsx` | Versão de trabalho, com abas e títulos de linha/coluna visíveis |
+
 | `simulador_fiis_final.xlsx` | Mesma planilha com guias e títulos escondidos (navegação por links) |
 
 ## Estrutura da pasta de trabalho
